@@ -1,6 +1,6 @@
-# Python3
+# python3
 
-Project for all things Python3.
+Project for all things python3.
 
 
 ### Prerequisites
